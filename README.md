@@ -1,2 +1,2 @@
 # PROGRAMS
-these are my programs
+Repository containing solutions to a variety of coding challenges, such as fizzBuzz and a studentDatabaseApp.
