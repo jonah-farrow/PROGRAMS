@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=WordAnalyser
+comment0.text=\r\n\ Keep\ track\ of\ word\ counts\ and\ word\ pairs.\r\n\r\n\ @author\ Jonah\ Matthew\ Farrow\ \r\n\ @version\ 0.3\r\n
+comment1.params=
+comment1.target=WordAnalyser()
+comment2.params=word
+comment2.target=void\ addWord(java.lang.String)
+comment2.text=\r\n\ Add\ a\ word\ to\ the\ three\ collections\ and\ allocate\ a\ value\ to\ the\ hashmap\ key.\r\n\ @param\ word\ the\ word\ to\ be\ added.\r\n
+comment3.params=word
+comment3.target=int\ getCount(java.lang.String)
+comment3.text=\r\n\ Get\ the\ number\ of\ times\ the\ given\ word\ has\ been\ seen.\r\n\ @param\ word\ The\ word\ to\ be\ looked\ up.\r\n\ @return\ The\ number\ of\ times\ the\ word\ has\ been\ seen.\r\n
+comment4.params=firstWord\ secondWord
+comment4.target=boolean\ followedBy(java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ Return\ true\ if\ firstWord\ has\ been\ immediately\r\n\ followed\ by\ secondWord;\ false\ otherwise.\r\n\ @param\ firstWord\r\n\ @param\ secondWord\r\n
+comment5.params=word
+comment5.target=int\ getCaseInsensitiveCount(java.lang.String)
+comment5.text=\r\n\ Get\ the\ number\ of\ times\ the\ given\ word\ has\ been\ seen,\r\n\ regardless\ of\ the\ case\ of\ its\ occurrences.\r\n\ @param\ word\ The\ word\ to\ be\ looked\ up.\r\n\ @return\ The\ number\ of\ times\ the\ word\ has\ been\ seen.\r\n
+numComments=6

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=WordAnalyserTimerMain
+comment0.text=\r\n\ A\ simple\ 'driver'\ for\ the\ WordAnalyser\ class.\r\n\ <p>\r\n\ Split\ a\ 'document'\ into\ individual\ words\ and\ pass\ them\r\n\ to\ a\ WordAnalyser\ to\ be\ analysed.\r\n\ <p>\r\n\ In\ this\ example,\ the\ 'document'\ can\ be\ either\ the\ contents\ of\r\n\ a\ file\ passed\ to\ the\ main\ method,\ or\ a\ String\ literal\ embedded\ in\r\n\ the\ main\ method.\r\n\ <p>\r\n\ This\ version\ times\ how\ long\ it\ takes\ to\ count\ the\ number\ of\ duplicate\r\n\ words,\ which\ is\ not\ functionality\ provided\ directly\ by\ the\ WordAnalyser.\r\n\ It\ acts\ as\ a\ test\ of\ the\ implementation\ speed\ of\ WordAnalyser.\r\n\r\n\ @author\ David\ J.\ Barnes\r\n\ @version\ 2019.12.04\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
